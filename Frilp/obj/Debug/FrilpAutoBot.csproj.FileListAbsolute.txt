@@ -1,0 +1,21 @@
+E:\Selenium\Frilp\Frilp\bin\Debug\chromedriver.exe
+E:\Selenium\Frilp\Frilp\bin\Debug\IEDriverServer.exe
+E:\Selenium\Frilp\Frilp\bin\Debug\Frilp.exe.config
+E:\Selenium\Frilp\Frilp\bin\Debug\Frilp.exe
+E:\Selenium\Frilp\Frilp\bin\Debug\Frilp.pdb
+E:\Selenium\Frilp\Frilp\bin\Debug\nunit.framework.dll
+E:\Selenium\Frilp\Frilp\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+E:\Selenium\Frilp\Frilp\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\Selenium\Frilp\Frilp\bin\Debug\WebDriver.dll
+E:\Selenium\Frilp\Frilp\bin\Debug\WebDriver.Support.dll
+E:\Selenium\Frilp\Frilp\bin\Debug\nunit.framework.xml
+E:\Selenium\Frilp\Frilp\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+E:\Selenium\Frilp\Frilp\bin\Debug\ThoughtWorks.Selenium.Core.xml
+E:\Selenium\Frilp\Frilp\bin\Debug\WebDriver.xml
+E:\Selenium\Frilp\Frilp\bin\Debug\WebDriver.Support.xml
+E:\Selenium\Frilp\Frilp\obj\Debug\FrilpAutoBot.csprojResolveAssemblyReference.cache
+E:\Selenium\Frilp\Frilp\obj\Debug\Frilp.exe
+E:\Selenium\Frilp\Frilp\obj\Debug\Frilp.pdb
+C:\Users\Manishankarr\Google Drive\Frilp\Frilp\bin\Debug\Frilp.exe.config
+C:\Users\Manishankarr\Google Drive\Frilp\Frilp\obj\Debug\Frilp.exe
+C:\Users\Manishankarr\Google Drive\Frilp\Frilp\obj\Debug\Frilp.pdb
